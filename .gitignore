@@ -1,1 +1,3 @@
-# for now no files are ignored
+# gitignore 
+
+git_reminder_simple.txt # local text file for quick reminder of git commands
