@@ -1,0 +1,20 @@
+Git commands reminder
+
+git status == check status
+
+git add <what> == stage files specified (<what>) for committing
+git add . == stage all changes
+
+git commit -m "<message>" == commit changes locally + add descriptive message in " ". 
+git commit --amend == combine the staged changes to last commit (with last "message")
+
+git log --pretty=oneline == display commit history, shortly and nicely
+--abrev-commit == flag, make sh7 is displayed shorter
+git log --graph --oneline --decorate --all == display the log as tree with all branches
+
+git remote add <repo_name> <repo_url> == creates connection with <repo_name> remote repository i.e. a GitHub repo. Later <repo_name> can be used instead of specifying the <repo_url> (https://...). 
+
+git push -u <repo_name> <repo_url> == push changes + set remote repo as upstream (= next can do only "git push" / "git pull" without specifying the rest. 
+
+git pull == (recieve) fetch & merge from remote to local. 
+git push == (send) push the changes from local to remote.  
