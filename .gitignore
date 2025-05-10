@@ -1,2 +1,3 @@
-*.txt # local text file for quick reminder of git commands
-.gitattributes
+# gitignore 
+
+git_reminder_simple.txt # local text file for quick reminder of git commands
