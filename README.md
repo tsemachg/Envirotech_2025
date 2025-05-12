@@ -18,3 +18,4 @@ Directory created for the course: "Envirotech" - BIDR BGU 2025 spring semester.
 
 <br>
 
+![Alt text](Temp-RH-CO2_midterm.jpg)
