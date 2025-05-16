@@ -1,5 +1,12 @@
-# gitignore dosne't seem to work at all
-git_reminder_simple.txt # local text file for quick reminder of git commands
+# gitignore 
+
+# local text file for quick reminder of git commands
+git_reminder_simple.txt 
+
 *.txt 
 .gitattributes
-~$* # word lock files, temporary local files
+
+# https://github.com/github/gitignore/blob/main/Global/MicrosoftOffice.gitignore
+# word temporary files: 
+~$*.doc*
+*.tmp
