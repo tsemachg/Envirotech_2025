@@ -7,7 +7,7 @@
   |  2025-04-10 (begin date)                                                         |
   |  Envirotech course 2025 Spring semester, midterm assignment.                     |
   |  Code was built with help from tutorials: Arduino IDE's built-in "Blink" & "SD"  |
-  |  sketches, Adafruit's SHTC3 & RTClib and Sensirion's SCD4x libraries.            |                                       | 
+  |  example sketches, Adafruit's SHTC3 & RTClib and Sensirion's SCD4x libraries.    |                                       | 
   +----------------------------------------------------------------------------------+
   
 */
@@ -84,8 +84,7 @@ void setup() {
   
   // # Initialize SD card
   Serial.print(F("Checking SD card:       "));
-  if (SD.begin())
-  {
+  if (SD.begin()) {
     Serial.println("SD card good to go");
   } else {
     Serial.println("SD card failed!");
@@ -189,7 +188,7 @@ void setup() {
 
 
 
-// ------------ Loop, repeate this section ------------
+// ------------------ Loop, repeat this section ------------------
 void loop() {
   if (operational == true) {
 
@@ -235,7 +234,7 @@ void loop() {
           return; 
       }
       while (!dataReady) {
-          delay(100); // delay for proper operation, possible resulting inaccuracies in time not critical for case study
+          delay(100); // delay for proper operation, possible resulting inaccuracies in time measure, not critical for case study
           error = sensor.getDataReadyStatus(dataReady);
           if (error != NO_ERROR) {
               Serial.println(F("Error on getDataReadyStatus()"));
@@ -246,8 +245,8 @@ void loop() {
   
       sensor.readMeasurement(co2Concentration, temperature, relativeHumidity); // the actual reading of SCD40...
       
-      Serial.println(F("------------------------------------------------"));
       //// # Serial print the readings
+      Serial.println(F("------------------------------------------------"));
       //// ## RTC one-line print YYYY/MM/DD hh:mm:ss
       Serial.print(F("[DS3231] Date:               "));
       Serial.print(now.year(), DEC);
@@ -273,12 +272,12 @@ void loop() {
       Serial.println(F("------------------------------------------------"));
       Serial.print(F("[SCD40]  Temperature:        ")); Serial.print(temperature); Serial.println(" °C");
       Serial.print(F("[SCD40]  Humidity:           ")); Serial.print(relativeHumidity); Serial.println("% RH");
-      Serial.print(F("[SCD40]  CO2 concentratio)n: ")); Serial.print(co2Concentration); Serial.println(" ppm");
+      Serial.print(F("[SCD40]  CO2 concentration:  ")); Serial.print(co2Concentration); Serial.println(" ppm");
       Serial.println(F("------------------------------------------------"));
 
       // # Log data to SD card CSV format
       Serial.print(F("Logging... "));
-      //("RTC,milis,RTC_Temp,SHTC3_Temp,SHTC_RH,SCF40_Temp,SCD40_RH,SCD40_CO2")
+      // ("RTC,milis,RTC_Temp,SHTC3_Temp,SHTC_RH,SCF40_Temp,SCD40_RH,SCD40_CO2")
       file = SD.open("midterm.csv", FILE_WRITE);
       if (file) {
         // Time RTC
