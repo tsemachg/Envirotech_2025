@@ -4,7 +4,7 @@
 git_reminder_simple.txt 
 
 # git attrubutes for Git settings things such as line endings
-.gitattributes
+# .gitattributes # uploading to remote
 
 # ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints
