@@ -11,3 +11,6 @@
 
 # videos
 *.mp4 binary
+
+# python
+*.ipynb text
