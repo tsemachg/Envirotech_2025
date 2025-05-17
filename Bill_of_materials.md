@@ -12,3 +12,6 @@
 |MicroSD card             |SanDisk      |$ 9.64  |Ultra 32GB micro SD card |https://www.amazon.com/SanDisk-Ultra-microSDHC-Class-SDSDQUA-032G-A11A/dp/B007JTKLEK/ref=asc_df_B007JTKLEK?mcid=68d551c4acfb3a9a82e17b44c5bba246&tag=hyprod-20&linkCode=df0&hvadid=693392565994&hvpos=&hvnetw=g&hvrand=13525153973692378347&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9058138&hvtargid=pla-613868574658&psc=1&hvocijid=13525153973692378347-B007JTKLEK-&hvexpln=0 
 |SPL 84                   |Leaka        |$ 0.75  |Splitter 4-in 8-out. |https://www.alibaba.com/product-detail/Supplier-SPL84-electrical-4-in-8_1600379482886.html 
 |Jump wires               |Various      |-       |MicroSD – X7 wires,<br> RTC – X4 wires,<br> SHTC3 – X4 wires,<br> SPL84-to-Uno – X4 wires,<br> Total: 19 wires (excluding QT)|- 
+
+[^1]: All materials and components were supplied by the Envirotech lab.
+[^2]: Prices are correct as of the time of creating the document, and may change with time and depending on the supplier.
