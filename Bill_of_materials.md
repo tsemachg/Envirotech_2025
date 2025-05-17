@@ -1,6 +1,6 @@
 # Bill of materials
 
-|Component                |Company      |Cost    |Description            |Link
+|Component                |Company      |Cost  &nbsp; &nbsp;|Description            |Link
 |:------------------------|:------------|:-------|:----------------------|:-----------------
 |Uno R3 board             |GeekCreit    |$ 12    |Arduino-like Uno board |https://www.tindie.com/products/mmm999/geekcreit-uno-r3-atmega328p-development-board/
 |USB 2.0 cable A to B     |-            |$ 3     |For data transfer and supplying power. |https://www.amazon.com/DIYables-Cable-Arduino-Mega-Pieces/dp/B0DLM5JBZ8?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&th=1 
