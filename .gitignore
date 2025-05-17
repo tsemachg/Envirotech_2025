@@ -3,10 +3,13 @@
 # local text file for quick reminder of git commands
 git_reminder_simple.txt 
 
-*.txt 
+# git attrubutes for Git settings things such as line endings
 .gitattributes
 
-# https://github.com/github/gitignore/blob/main/Global/MicrosoftOffice.gitignore
+# ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# from https://github.com/github/gitignore/blob/main/Global/MicrosoftOffice.gitignore
 # word temporary files: 
 ~$*.doc*
 *.tmp
