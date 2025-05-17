@@ -11,10 +11,4 @@
 |Battery for RTC          |VARTA        |$ 9.70  |CR1220 lithium 3V battery compatible for RTC. |https://www.ebay.com/itm/167167933682?_trkparms=amclksrc%3DITM%26aid%3D1110006%26algo%3DHOMESPLICE.SIM%26ao%3D1%26asc%3D285606%2C286222%2C285599%2C286024%26meid%3Dc9500721721a48a88c7c24163bd9673d%26pid%3D101875%26rk%3D4%26rkt%3D4%26sd%3D145311634144%26itm%3D167167933682%26pmt%3D1%26noa%3D0%26pg%3D2332490%26algv%3DSimVIDwebV3WithCPCExpansionEmbeddingSearchQuerySemanticBroadMatchSingularityRecallReplaceKnnV4WithVectorDbNsOptHotPlRecallCIICentroidCoviewCPCAuto%26brand%3DVARTA&_trksid=p2332490.c101875.m1851&itmprp=cksum%3A167167933682c9500721721a48a88c7c24163bd9673d%7Cenc%3AAQAKAAABgG96wQ16jds4VFcrhy1F3d4mbwZUJI9Fs%252BgdXYAHIzlX2e3YaNh7x%252BEnKA3G%252BCqSl1Xn4McfcWFK1GytmS2qxJ87mtE8Gm3iR1Ja4WBwh0hNHJrJx3Ki5mp04ow4CO7lP%252BooCybZDDU%252BbbSwmg7CbTin%252BBzBzbCYVnbjvyQAHu6--HI4MB7SvJl5IJqlyvomgoLMlgT6qAJzX0SANJhty2dJcd4YOd%252BxP7rY6QGtoIFZgHiysA6OsjxFBtO33ENGSd4JegPioNHW246J5iwylQziU7KXifYBLzCUamjc%252Bm%252B%252FDvrvROpncFveT6Rm%252B8QL5L6FP6Jw3a7iBfMeDPuY%252FeBCbHwGjdCNE%252Fq5tjo9DOj7OQlNirxPd57QH%252BHsW1DA1fAHyO3EVnkMRUWnyNnjw0RdYacgA1FuYOYtV9lAX4auOtRVQQ1Hrq6fCZMEhWuYmHW5IVjPFTt10J%252FceY7Y2dWlLVEB04HdVFkbFY%252BswRpg9CTiyqxt0HELX69Fk1X4uQ%253D%253D%7Campid%3APL_CLK%7Cclp%3A2332490&itmmeta=01JVDN2VJNM8Z2AKKBRYKB3JVW 
 |MicroSD card             |SanDisk      |$ 9.64  |Ultra 32GB micro SD card |https://www.amazon.com/SanDisk-Ultra-microSDHC-Class-SDSDQUA-032G-A11A/dp/B007JTKLEK/ref=asc_df_B007JTKLEK?mcid=68d551c4acfb3a9a82e17b44c5bba246&tag=hyprod-20&linkCode=df0&hvadid=693392565994&hvpos=&hvnetw=g&hvrand=13525153973692378347&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9058138&hvtargid=pla-613868574658&psc=1&hvocijid=13525153973692378347-B007JTKLEK-&hvexpln=0 
 |SPL 84                   |Leaka        |$ 0.75  |Splitter 4-in 8-out. |https://www.alibaba.com/product-detail/Supplier-SPL84-electrical-4-in-8_1600379482886.html 
-|Jump wires               |Various      |-       |MicroSD – X7 wires
-RTC – X4 wires
-SHTC3 – X4 wires
-SPL84-to-Uno – X4 wires
-
-Total: 19 wires (excluding QT)
-|- 
+|Jump wires               |Various      |-       |MicroSD – X7 wires,<br> RTC – X4 wires,<br> SHTC3 – X4 wires,<br> SPL84-to-Uno – X4 wires,<br> Total: 19 wires (excluding QT)|- 
