@@ -1,4 +1,4 @@
-# Bill of materials
+# Bill of materials [^1] [^2]
 
 |Component                |Company      |Cost  &nbsp; &nbsp;|Description            |Link
 |:------------------------|:------------|:-------|:----------------------|:-----------------
