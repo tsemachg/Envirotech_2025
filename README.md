@@ -24,7 +24,7 @@ Directory created for the course: "Envirotech" - BIDR BGU 2025 spring semester.
 
 ### System:
 
-![Alt text](DSC_0856.JPG)
+![Alt text](Photos/DSC_0856.JPG)
 
 ### Connection Diagram: 
 
@@ -32,11 +32,11 @@ Directory created for the course: "Envirotech" - BIDR BGU 2025 spring semester.
 
 ### Microcontroller Board:
 
-![Alt text](DSC_0771.JPG)
+![Alt text](Photos/DSC_0771.JPG)
 
 ### Bill of Materials:
 
-![Alt text](Bill_ofmaterials.md)
+![Alt text](Bill_of_materials.md)
 
 ---
 
