@@ -8,3 +8,8 @@
 * **NOTE:** 
   * Sde-Boker is located near where the project's system was placed (Midreshet Ben-Gurion, The Albert Katz International School student dormitories). There are physical-geographical differences between the two locations that might affect meteorological variables, such as wind speed and slight other differences. 
   * A reminder that the project's system was placed indoors. 
+
+---
+
+![Alt text](Quick_visual_validation.png)
+
