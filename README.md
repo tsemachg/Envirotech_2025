@@ -37,7 +37,7 @@ Directory created for the course: "Envirotech" - BIDR BGU 2025 spring semester.
 
 ### Bill of Materials:
 
-![Alt text](Bill_of_materials.md)
+![Table](Bill_of_materials.md)
 
 ---
 
@@ -45,4 +45,4 @@ Directory created for the course: "Envirotech" - BIDR BGU 2025 spring semester.
 
 ### Full report:
 
-![Alt text](Report-Gill_Tsemach.pdf)
+![Click here](Report-Gill_Tsemach.pdf)
