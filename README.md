@@ -17,6 +17,7 @@ Directory created for the course: "Envirotech" - BIDR BGU 2025 spring semester.
 * `Output` - Result graphs
 * `Photos` - Folder containing photos and additional ones
 * `test_codes` - Supplimentary Arduino code for testing SD card
+* `Validation_IMS` - added after submission: folder with meteorological measurements from nearby station, contains data in CSV and a picture of the graphs for quick visualization. 
 
 ---
 
